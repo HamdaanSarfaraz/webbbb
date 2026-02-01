@@ -26,7 +26,7 @@ const timelineData: TimelineEvent[] = [
   {
     date: "The Beginning",
     title: "When We Met",
-    description: "The moment our paths crossed and the stars aligned. Tap to see our favorite moments from the start.",
+    description: "I am forever grateful to the moment when Riya helped us meet each other and it was lovely. me talking in english was not tho..",
     // Replace the link below with your local file, e.g., "/images/meeting-cover.jpg"
     image: "https://images.unsplash.com/photo-1518895949257-7621c3c786d7?auto=format&fit=crop&q=80&w=400", 
     gallery: [
@@ -40,8 +40,8 @@ const timelineData: TimelineEvent[] = [
   },
   {
     date: "Chapter One",
-    title: "First Date",
-    description: "Nervous smiles, coffee cups, and hours of conversation that felt like minutes.",
+    title: "First ever Dates",
+    description: "My first ever date and the best date was with you.such a good experience was given to me that i can never forget it. and then we went on so many more dates",
     image: "https://images.unsplash.com/photo-1511920170033-f8396924c348?auto=format&fit=crop&q=80&w=400",
     gallery: [
       "https://images.unsplash.com/photo-1511920170033-f8396924c348?auto=format&fit=crop&q=80&w=800",
@@ -52,8 +52,8 @@ const timelineData: TimelineEvent[] = [
   },
   {
     date: "Adventure",
-    title: "Our First Trip",
-    description: "Exploring new places with you made the world feel twice as big and twice as beautiful.",
+    title: "Our Trips to Ooty and Mumbai",
+    description: "We went to OOty together and it was sooooooooo good that i cant even tell you. itna maza aaya na mujhe. going there w the love of my life. and then Mumbai bhi. living together as husband and wife where i made the breakfast sob sob. but i loved every moment w u babyyyy.",
     image: "https://images.unsplash.com/photo-1523580494863-6f3031224c94?auto=format&fit=crop&q=80&w=400",
     gallery: [
       "https://images.unsplash.com/photo-1523580494863-6f3031224c94?auto=format&fit=crop&q=80&w=800",
@@ -63,7 +63,7 @@ const timelineData: TimelineEvent[] = [
     icon: <MapPin className="w-5 h-5 text-white" />
   },
   {
-    date: "Growing Closer",
+    date: "Cute",
     title: "Making Memories",
     description: "Every laugh, every trip, and every quiet moment shared has led us here.",
     image: "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?auto=format&fit=crop&q=80&w=400",
@@ -74,20 +74,9 @@ const timelineData: TimelineEvent[] = [
     icon: <Calendar className="w-5 h-5 text-white" />
   },
   {
-    date: "Melody",
-    title: "Our Song",
-    description: "Whenever I hear that tune, I can't help but think of you and smile.",
-    image: "https://images.unsplash.com/photo-1514525253440-b393452e2729?auto=format&fit=crop&q=80&w=400",
-    gallery: [
-      "https://images.unsplash.com/photo-1514525253440-b393452e2729?auto=format&fit=crop&q=80&w=800",
-      "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?auto=format&fit=crop&q=80&w=800"
-    ],
-    icon: <Music className="w-5 h-5 text-white" />
-  },
-  {
     date: "Silly Moments",
-    title: "Just Us",
-    description: "Being weird together is my favorite thing. You make the mundane magical.",
+    title: "Just our Bakchodi",
+    description: "Being weird together is my favorite thing.Naraz aap thoda jldi ho jaate ho but it works out well always.",
     image: "https://images.unsplash.com/photo-1516238840914-94dfc0c873ae?auto=format&fit=crop&q=80&w=400",
     gallery: [
       "https://images.unsplash.com/photo-1516238840914-94dfc0c873ae?auto=format&fit=crop&q=80&w=800",
@@ -96,19 +85,8 @@ const timelineData: TimelineEvent[] = [
     icon: <Camera className="w-5 h-5 text-white" />
   },
   {
-    date: "Today",
-    title: "The Question",
-    description: "Asking you to be my Valentine is just another way of saying I want to keep making memories with you.",
-    image: "https://images.unsplash.com/photo-1518199266791-5375a83190b7?auto=format&fit=crop&q=80&w=400",
-    gallery: [
-      "https://images.unsplash.com/photo-1518199266791-5375a83190b7?auto=format&fit=crop&q=80&w=800",
-      "https://images.unsplash.com/photo-1505932794465-14a56f221056?auto=format&fit=crop&q=80&w=800"
-    ],
-    icon: <Heart className="w-5 h-5 text-white fill-current" />
-  },
-  {
     date: "Forever",
-    title: "Future Adventures",
+    title: "Future Experiences",
     description: "To many more months, years, and Valentines together.",
     image: "https://images.unsplash.com/photo-1474552226712-ac0f0961a954?auto=format&fit=crop&q=80&w=400",
     gallery: [

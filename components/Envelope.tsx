@@ -136,12 +136,12 @@ export const Envelope: React.FC<EnvelopeProps> = ({ onOpen }) => {
 
               <div className="space-y-6 text-center">
                 <h2 className="font-cursive text-4xl text-rose-800 mb-6 border-b-2 border-rose-100 pb-4 inline-block">
-                  My Dearest Valentine
+                  My Dearest Baby
                 </h2>
                 
                 <div className="font-serif text-gray-700 space-y-4 text-lg leading-relaxed text-left">
                   <p>
-                    From the moment our paths crossed, my world has been brighter. Every smile you share, every laugh we create together, adds a new color to my life.
+                    From the day i met you on the 22nd of Sept, 2024, life has been good with you and this is my second time celebrating Velentine's week w u. I LOVE U from every part of my heart. I am a little weak on words so maybe this would'nt suffice.
                   </p>
                   <p>
                     Asking you to be my Valentine isn't just about a single day in February. It's about wanting to hold your hand through all the days that follow.
@@ -153,7 +153,7 @@ export const Envelope: React.FC<EnvelopeProps> = ({ onOpen }) => {
 
                 <div className="pt-8 text-right">
                   <p className="font-cursive text-3xl text-rose-600 transform -rotate-2 inline-block">
-                    With all my love, <br/> Me ❤️
+                    With all my love, <br/> Your Love ❤️
                   </p>
                 </div>
               </div>
